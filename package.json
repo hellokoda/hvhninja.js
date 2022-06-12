@@ -1,0 +1,17 @@
+{
+  "name": "hvhninja.js",
+  "version": "1.0.0",
+  "description": "An API wrapper for the HVH.ninja platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hvhninja"
+  ],
+  "author": "HVH.ninja Development",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
